@@ -1,0 +1,17 @@
+.mode {
+  font-size: 20px;
+  color: #aaa;
+}
+
+.mode:hover {
+  color: #777;
+  cursor: pointer;
+}
+
+.mode.active {
+  color: #0D6EFD;
+}
+
+.mode.active:hover {
+  color: #0A51B5;
+}
